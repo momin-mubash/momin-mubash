@@ -3,12 +3,6 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momin-mubash&label=Profile%20views&color=0e75b6&style=flat" alt="momin-mubash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momin-mubash" alt="momin-mubash" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@momin_mubash" target="blank"><img src="https://img.shields.io/twitter/follow/@momin_mubash?logo=twitter&style=for-the-badge" alt="@momin_mubash" /></a> </p>
-
 - 🔭 I’m currently working on **a project**
 
 - 🌱 I’m currently learning **react.js**
@@ -24,6 +18,13 @@
 - 📫 How to reach me **mubashmomin32@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=momin-mubash&label=Profile%20views&color=0e75b6&style=flat" alt="momin-mubash" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momin-mubash" alt="momin-mubash" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@momin_mubash" target="blank"><img src="https://img.shields.io/twitter/follow/@momin_mubash?logo=twitter&style=for-the-badge" alt="@momin_mubash" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
